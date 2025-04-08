@@ -22,12 +22,12 @@ Programı başlattıktan sonra, sizden sırasıyla ilk sayıyı, ikinci sayıyı
 ## Programın Çalışmasına Bir Örnek
 
 ```bash
-Enter the first number: 4
-Enter the second number: 3
-Choose the operation (+, -, *, /): +
-Result: 7.0
+İlk sayıyı girin: 4
+İkinci sayıyı girin: 3
+Yapılacak işlemi seçin (+, -, *, /): +
+Sonuç: 7.0
 ```
 
-## Author
+## Yazar
 
 Kodland
