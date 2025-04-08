@@ -8,13 +8,13 @@ def test_calculate_division():
     assert calculate(8, 2, '/') == 4
 
 def test_calculate_unknown_operation():
-    assert calculate(5, 5, 'unknown') == "Unknown operation."
+    assert calculate(5, 5, 'unknown') == "Bilinmeyen işlem."
 
 '''
-Task. At the moment, there are 3 implemented unit-tests:
-We test the correctness of addition and division operations as well as the handling of the unknown operation
-Your task is to add at least two tests for the following operations:
-1. Subtraction
-2. Multiplication
-However, it would be great if you could come up with and write some additional tests!
+Görev: Şu anda, 3 adet birim test uygulanmıştır:
+Toplama ve bölme işlemlerinin doğruluğu ile bilinmeyen işlemin  test edilmektedir.
+Göreviniz, aşağıdaki işlemler için en az iki test eklemektir:
+1. Çıkarma
+2. Çarpma
+Ek olarak, farklı senaryolar için ek testler geliştirip yazarsanız harika olur!
 '''
