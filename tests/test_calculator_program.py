@@ -12,7 +12,7 @@ def test_calculate_unknown_operation():
 
 '''
 Görev: Şu anda, 3 adet birim test uygulanmıştır:
-Toplama ve bölme işlemlerinin doğruluğu ile bilinmeyen işlemin  test edilmektedir.
+Toplama ve bölme işlemlerinin doğruluğu ile bilinmeyen işlem test edilmektedir.
 Göreviniz, aşağıdaki işlemler için en az iki test eklemektir:
 1. Çıkarma
 2. Çarpma
