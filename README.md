@@ -1,25 +1,25 @@
-# Calculator Program
+# Hesap Makinesi Programı
 
-This is a calculator program.
+Bu, bir hesap makinesi programıdır.
 
-## Running the Program
+## Programı Çalıştırma
 
-To run the program, ensure that Python version 3.6 or higher is installed on your computer.
+Programı çalıştırmak için bilgisayarınızda Python 3.6 veya daha üst bir sürümün kurulu olduğundan emin olun.
 
-1. Download the project files to your computer.
-2. Open the terminal or command line.
-3. Navigate to the directory containing the program files.
-4. Run the program using the command:
+1. Proje dosyalarını bilgisayarınıza indirin.
+2. Terminali veya komut satırını açın.
+3. Program dosyalarının bulunduğu dizine/klasöre gidin.
+4. Aşağıdaki komutu kullanarak programı çalıştırın:
 
 ```bash
 python calculator_program.py
 ```
 
-## Using the Program
+## Programı Kullanma
 
-After launching the program, you will be prompted to enter the first number, then the second number, and then the operation to perform between them. Enter the requested data and press Enter. The program will output the result.
+Programı başlattıktan sonra, sizden sırasıyla ilk sayıyı, ikinci sayıyı ve bu sayılar arasında yapılacak işlemi girmeniz istenecek. İstenen verileri girdikten sonra Enter tuşuna basın. Program sonucu ekrana yazdıracaktır.
 
-## Example of Program Execution
+## Programın Çalışmasına Bir Örnek
 
 ```bash
 Enter the first number: 4
