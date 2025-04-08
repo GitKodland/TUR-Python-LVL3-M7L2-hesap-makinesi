@@ -9,18 +9,18 @@ def calculate(num1, num2, operation):
         if num2 != 0:
             return num1 / num2
         else:
-            return "Error: Division by zero."
+            return "Hata: Sıfıra bölme"
     else:
-        return "Unknown operation."
+        return "Bilinmeyen işlem."
 
 
 def main():
-    print("Simple Calculator. Enter two numbers and choose an operation.")
-    num1 = float(input("Enter the first number: "))
-    num2 = float(input("Enter the second number: "))
-    operation = input("Choose an operation (+, -, *, /): ")
+    print("Basit Hesap Makinesi. İki sayı girin ve bir işlem seçin.")
+    num1 = float(input("İlk sayıyı girin: "))
+    num2 = float(input("İkinci sayıyı girin: "))
+    operation = input("Bir işlem seçin (+, -, *, /): ")
     result = calculate(num1, num2, operation)
-    print(f"Result: {result}")
+    print(f"Sonuç: {result}")
 
 
 if __name__ == "__main__":
